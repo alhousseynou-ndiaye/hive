@@ -34,3 +34,16 @@ Cash flow is oxygen. But chasing invoices is awkward and time-consuming. This ag
 | Payment bounces or fails | Alert with retry options |
 | Client requests payment plan | Queue for your approval with suggested terms |
 | Collections threshold reached (>60 days) | Recommend formal collection action |
+
+## Example Scenario
+
+A small business sends invoices to clients after completing services.
+
+The agent automatically:
+- generates and sends invoices through the accounting platform
+- tracks payment status in real time
+- sends reminders at increasing levels of urgency (friendly → firm → final)
+- reconciles incoming payments with bank transactions
+- alerts the business owner if a payment is overdue or requires escalation
+
+This helps reduce manual follow-ups, improve cash flow, and ensure consistent collections without damaging client relationships.
